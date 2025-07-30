@@ -1,0 +1,1 @@
+"""JDemetra toolkit - Core functionality for time series analysis."""
